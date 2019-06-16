@@ -4,6 +4,7 @@
 public class TestAddKotin {
 
     public static void main(String[] args) {
-        System.out.printf("ss 孤鸿寡鹄ss");
+        System.out.printf("ss 孤鸿寡鹄得到的得到的得到的ss");
+   System.out.printf("ss 是s");
     }
 }
