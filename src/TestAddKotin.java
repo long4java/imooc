@@ -4,6 +4,6 @@
 public class TestAddKotin {
 
     public static void main(String[] args) {
-        System.out.printf("ssss");
+        System.out.printf("ss 孤鸿寡鹄ss");
     }
 }
