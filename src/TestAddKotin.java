@@ -4,6 +4,6 @@
 public class TestAddKotin {
 
     public static void main(String[] args) {
-        System.out.printf("ss 孤鸿寡鹄ss");
+        System.out.printf("ss 孤鸿寡第三方公司打工鹄ss");
     }
 }
